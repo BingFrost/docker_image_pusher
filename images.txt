@@ -37,4 +37,5 @@ downloads.unstructured.io/unstructured-io/unstructured-api:latest
 eosphorosai/dbgpt:latest
 
 tugraph/tugraph-compile-ubuntu18.04
+tugraph/tugraph-runtime-ubuntu18.04
 
