@@ -42,3 +42,5 @@ tugraph/tugraph-runtime-ubuntu18.04
 
 infiniflow/ragflow:v0.16.0
 infiniflow/ragflow:v0.16.0-slim
+
+mineru:latest
